@@ -1,0 +1,13 @@
+[debug] [2018-03-30T08:51:45.615Z] ----------------------------------------------------------------------
+[debug] [2018-03-30T08:51:45.616Z] Command:       /usr/bin/node /usr/bin/firebase serve --only hosting,functions
+[debug] [2018-03-30T08:51:45.617Z] CLI Version:   3.17.4
+[debug] [2018-03-30T08:51:45.617Z] Platform:      linux
+[debug] [2018-03-30T08:51:45.617Z] Node Version:  v8.10.0
+[debug] [2018-03-30T08:51:45.617Z] Time:          Fri Mar 30 2018 15:51:45 GMT+0700 (WIB)
+[debug] [2018-03-30T08:51:45.617Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-30T08:51:45.627Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-30T08:51:45.628Z] > authorizing via signed-in user
+[debug] [2018-03-30T08:51:45.629Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/cv-figar  
+  
+ Fri Mar 30 2018 15:51:45 GMT+0700 (WIB)
